@@ -1,0 +1,10 @@
+D:\All Work\C# Win Form\Grading Management\Grading Management\bin\Debug\Grading Management.exe.config
+D:\All Work\C# Win Form\Grading Management\Grading Management\bin\Debug\Grading Management.exe
+D:\All Work\C# Win Form\Grading Management\Grading Management\bin\Debug\Grading Management.pdb
+D:\All Work\C# Win Form\Grading Management\Grading Management\obj\Debug\Grading Management.csproj.SuggestedBindingRedirects.cache
+D:\All Work\C# Win Form\Grading Management\Grading Management\obj\Debug\Grading_Management.log_in.resources
+D:\All Work\C# Win Form\Grading Management\Grading Management\obj\Debug\Grading_Management.Properties.Resources.resources
+D:\All Work\C# Win Form\Grading Management\Grading Management\obj\Debug\Grading Management.csproj.GenerateResource.cache
+D:\All Work\C# Win Form\Grading Management\Grading Management\obj\Debug\Grading Management.csproj.CoreCompileInputs.cache
+D:\All Work\C# Win Form\Grading Management\Grading Management\obj\Debug\Grading Management.exe
+D:\All Work\C# Win Form\Grading Management\Grading Management\obj\Debug\Grading Management.pdb
